@@ -11,32 +11,37 @@
     },
     "items": [
         {
-            "id": "https://nextjs-blog-todos-chi-ten.vercel.app//posts/5",
+            "id": "5",
             "content_html": "What is ISR?",
+            "url": "https://nextjs-blog-todos-chi-ten.vercel.app//posts/5",
             "title": "New post 3",
             "date_modified": "2022-04-24T17:59:01.000Z"
         },
         {
-            "id": "https://nextjs-blog-todos-chi-ten.vercel.app//posts/4",
+            "id": "4",
             "content_html": "POST2! no update",
+            "url": "https://nextjs-blog-todos-chi-ten.vercel.app//posts/4",
             "title": "New post 2",
             "date_modified": "2022-04-24T17:57:34.000Z"
         },
         {
-            "id": "https://nextjs-blog-todos-chi-ten.vercel.app//posts/3",
+            "id": "3",
             "content_html": "Updated 4",
+            "url": "https://nextjs-blog-todos-chi-ten.vercel.app//posts/3",
             "title": "New Post 1",
             "date_modified": "2022-04-24T13:39:54.000Z"
         },
         {
-            "id": "https://nextjs-blog-todos-chi-ten.vercel.app//posts/2",
+            "id": "2",
             "content_html": "We recommend using **Static Generation** (with and without data) whenever possible because your page can be built once and served by CDN, which makes it much faster than having a server render the page on every request.  You can use Static Generation for many types of pages, including:  - Marketing pages - Blog posts - E-commerce product listings - Help and documentation  You should ask yourself: \"Can I",
+            "url": "https://nextjs-blog-todos-chi-ten.vercel.app//posts/2",
             "title": "When to Use Static Generation v.s. Server-side ren",
             "date_modified": "2022-04-24T04:27:46.000Z"
         },
         {
-            "id": "https://nextjs-blog-todos-chi-ten.vercel.app//posts/1",
+            "id": "1",
             "content_html": "Next.js has two forms of pre-rendering: **Static Generation** and **Server-side Rendering**. The difference is in **when** it generates the HTML for a page.  - **Static Generation** is the pre-rendering method that generates the HTML at **build time**. The pre-rendered HTML is then _reused_ on each request. - **Server-side Rendering** is the pre-rendering method that generates the HTML on **each request**.  Importantly, Next.js lets",
+            "url": "https://nextjs-blog-todos-chi-ten.vercel.app//posts/1",
             "title": "Two Forms of Pre-rendering",
             "date_modified": "2022-04-24T04:26:43.000Z"
         }

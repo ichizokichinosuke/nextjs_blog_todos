@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nextjs-blog-todos-chi-ten.vercel.app/</id>
     <title>Blog and Todo</title>
-    <updated>2022-04-26T15:51:36.589Z</updated>
+    <updated>2022-04-26T18:06:24.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Kenshiro Ata</name>
@@ -16,36 +16,36 @@
     <rights>All rights reserved 2022, Kenshiro Ata</rights>
     <entry>
         <title type="html"><![CDATA[New post 3]]></title>
-        <id>https://nextjs-blog-todos-chi-ten.vercel.app//posts/5</id>
-        <link/>
+        <id>5</id>
+        <link href="https://nextjs-blog-todos-chi-ten.vercel.app//posts/5"/>
         <updated>2022-04-24T17:59:01.000Z</updated>
         <content type="html"><![CDATA[What is ISR?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[New post 2]]></title>
-        <id>https://nextjs-blog-todos-chi-ten.vercel.app//posts/4</id>
-        <link/>
+        <id>4</id>
+        <link href="https://nextjs-blog-todos-chi-ten.vercel.app//posts/4"/>
         <updated>2022-04-24T17:57:34.000Z</updated>
         <content type="html"><![CDATA[POST2! no update]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[New Post 1]]></title>
-        <id>https://nextjs-blog-todos-chi-ten.vercel.app//posts/3</id>
-        <link/>
+        <id>3</id>
+        <link href="https://nextjs-blog-todos-chi-ten.vercel.app//posts/3"/>
         <updated>2022-04-24T13:39:54.000Z</updated>
         <content type="html"><![CDATA[Updated 4]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[When to Use Static Generation v.s. Server-side ren]]></title>
-        <id>https://nextjs-blog-todos-chi-ten.vercel.app//posts/2</id>
-        <link/>
+        <id>2</id>
+        <link href="https://nextjs-blog-todos-chi-ten.vercel.app//posts/2"/>
         <updated>2022-04-24T04:27:46.000Z</updated>
         <content type="html"><![CDATA[We recommend using **Static Generation** (with and without data) whenever possible because your page can be built once and served by CDN, which makes it much faster than having a server render the page on every request.  You can use Static Generation for many types of pages, including:  - Marketing pages - Blog posts - E-commerce product listings - Help and documentation  You should ask yourself: "Can I]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Two Forms of Pre-rendering]]></title>
-        <id>https://nextjs-blog-todos-chi-ten.vercel.app//posts/1</id>
-        <link/>
+        <id>1</id>
+        <link href="https://nextjs-blog-todos-chi-ten.vercel.app//posts/1"/>
         <updated>2022-04-24T04:26:43.000Z</updated>
         <content type="html"><![CDATA[Next.js has two forms of pre-rendering: **Static Generation** and **Server-side Rendering**. The difference is in **when** it generates the HTML for a page.  - **Static Generation** is the pre-rendering method that generates the HTML at **build time**. The pre-rendered HTML is then _reused_ on each request. - **Server-side Rendering** is the pre-rendering method that generates the HTML on **each request**.  Importantly, Next.js lets]]></content>
     </entry>
