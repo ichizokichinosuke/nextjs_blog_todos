@@ -1,11 +1,18 @@
-import Auth from '../components/Auth'
-import Layout from '../components/Layout'
-import styles from '../styles/Home.module.css'
+import Auth from '../components/Auth';
+import Layout from '../components/Layout';
+import { generatedRssFeed } from "../lib/feed";
 
-export default function Home() {
+export default function Home({}) {
   return (
     <Layout title="Login">
       <Auth />
     </Layout>
   );
-}
+};
+
+export async function getStaticProps() {
+  generatedRssFeed();
+  return {
+    props: {}
+  };
+};
