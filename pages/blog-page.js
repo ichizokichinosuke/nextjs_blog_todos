@@ -27,7 +27,6 @@ export default function BlogPage({ filteredPosts }) {
                 </svg>
                 <span>Back to main page</span>
             </div>
-
         </Link>
     </Layout>
   );
