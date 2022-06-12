@@ -51,3 +51,6 @@ https://fwywd.com/tech/next-sitemap
 
  サイトマップリンク
 
+## RSS対応
+## トレイリングスラッシュ対応
+## 単体テスト、Viewのテスト
