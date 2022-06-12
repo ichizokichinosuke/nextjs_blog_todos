@@ -4,12 +4,12 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export && next-sitemap --config next-sitemap.js",
+    "build": "next build && next-sitemap --config next-sitemap.js",
     "postbuild": "next-sitemap",
     "start": "next start",
     "lint": "next lint",
     "bs": "next build && next start",
-    "bws": "next build && next export && next-sitemap --config next-sitemap.js"
+    "bws": "next build && next-sitemap --config next-sitemap.js"
   },
   "dependencies": {
     "@heroicons/react": "^1.0.6",
