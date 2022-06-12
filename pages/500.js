@@ -5,7 +5,7 @@ import React from "react";
 
 export default function Custom500() {
   return (
-    <Layout title="Page Not Found">
+    <Layout title="Internal Server Error">
       <p className="font-mono font-bold">500</p>
       <p className="font-mono font-bold">Internal Server Error</p>
       <Link href="/main-page">
