@@ -8,7 +8,7 @@ export default function RedirectPage() {
   );
 };
 
-export async function getServerSideProps() {
+export async function getServerSideProps () {
     return {
         redirect: {
             permanent: false,
