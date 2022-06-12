@@ -45,12 +45,47 @@ https://nextjs.org/docs/advanced-features/custom-error-page
 
 
 ## sitemap対応
-参考（記事）
+参考
+
+```next-sitemap``` を使用
+
+リポジトリリンク
+
+https://github.com/iamvishnusankar/next-sitemap
+
+記事
 
 https://fwywd.com/tech/next-sitemap
 
  サイトマップリンク
 
+https://nextjs-blog-todos-chi-ten.vercel.app/sitemap-0.xml
+
 ## RSS対応
+参考
+
+記事
+
+https://fwywd.com/tech/next-feed-rss-atom
+
+RSSリンク
+
+https://nextjs-blog-todos-chi-ten.vercel.app/rss/feed.xml
+
+
 ## トレイリングスラッシュ対応
+
+公式
+
+https://nextjs.org/docs/api-reference/next.config.js/trailing-slash
+
+デフォルト: "/about/" -> "/about"
+
+next.config.jsonで "/about" -> "/about/" となるように設定することも可能
+
 ## 単体テスト、Viewのテスト
+JestとReact Testing Libraryを使用: https://github.com/ichizokichinosuke/with-jest-app
+
+公式ドキュメント: https://nextjs.org/docs/testing#jest-and-react-testing-library
+
+参考Issue: https://github.com/vercel/next.js/issues/37082
