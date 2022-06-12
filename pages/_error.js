@@ -1,7 +1,4 @@
-import Link from "next/link"
-import Error from 'next/error'
-import Layout from "../components/Layout"
-
+import Error from 'next/error';
 
 
 export async function getServerSideProps() {
