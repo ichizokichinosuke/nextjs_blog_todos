@@ -42,9 +42,9 @@ https://nextjs.org/docs/advanced-features/custom-error-page
 
 
 ## sitemap対応
-参考
-
 ```next-sitemap``` を使用
+
+参考リンク
 
 リポジトリリンク
 
@@ -59,9 +59,17 @@ https://fwywd.com/tech/next-sitemap
 https://nextjs-blog-todos-chi-ten.vercel.app/sitemap-0.xml
 
 ## RSS対応
-参考記事
+```feed``` を使用
+
+参考リンク
+
+記事
 
 https://fwywd.com/tech/next-feed-rss-atom
+
+リポジトリンク
+
+https://github.com/jpmonette/feed
 
 RSSリンク
 
