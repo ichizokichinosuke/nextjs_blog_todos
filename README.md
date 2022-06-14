@@ -10,9 +10,6 @@ https://nextjs-blog-todos-chi-ten.vercel.app/
 - RSS対応
 - リダイレクト方法
 - トレイリングスラッシュ対応
-- 単体テスト
-- Viewのテスト
-
 
 ## 開始方法
 
@@ -62,9 +59,7 @@ https://fwywd.com/tech/next-sitemap
 https://nextjs-blog-todos-chi-ten.vercel.app/sitemap-0.xml
 
 ## RSS対応
-参考
-
-記事
+参考記事
 
 https://fwywd.com/tech/next-feed-rss-atom
 
@@ -82,10 +77,3 @@ https://nextjs.org/docs/api-reference/next.config.js/trailing-slash
 デフォルト: "/about/" -> "/about"
 
 next.config.jsonで "/about" -> "/about/" となるように設定することも可能
-
-## 単体テスト、Viewのテスト
-JestとReact Testing Libraryを使用: https://github.com/ichizokichinosuke/with-jest-app
-
-公式ドキュメント: https://nextjs.org/docs/testing#jest-and-react-testing-library
-
-参考Issue: https://github.com/vercel/next.js/issues/37082
