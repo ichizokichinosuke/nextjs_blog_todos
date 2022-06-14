@@ -30,7 +30,7 @@ yarn dev
 [http://localhost:3000](http://localhost:3000) をブラウザで開く。
 
 ## 40x対応、50x対応
-参考（公式ドキュメント）
+**参考（公式ドキュメント）**
 
 https://nextjs.org/docs/advanced-features/custom-error-page
 
@@ -44,7 +44,7 @@ https://nextjs.org/docs/advanced-features/custom-error-page
 ## sitemap対応
 ```next-sitemap``` を使用
 
-参考リンク
+**参考リンク**
 
 リポジトリ
 
@@ -61,7 +61,7 @@ https://nextjs-blog-todos-chi-ten.vercel.app/sitemap-0.xml
 ## RSS対応
 ```feed``` を使用
 
-参考リンク
+**参考リンク**
 
 記事
 
@@ -75,6 +75,33 @@ RSSリンク
 
 https://nextjs-blog-todos-chi-ten.vercel.app/rss/feed.xml
 
+## リダイレクト方法
+getServerSidePropsを使用
+
+参考記事
+https://zenn.dev/uttk/articles/4649e49f1e6628
+
+**リダイレクト元**
+
+ページ
+
+https://nextjs-blog-todos-chi-ten.vercel.app/redirect-origin-page
+
+コード
+
+https://github.com/ichizokichinosuke/sample-nextjs-main/blob/main/pages/redirect-origin-page.js
+
+**リダイレクト先**
+
+ページ
+
+https://nextjs-blog-todos-chi-ten.vercel.app/redirect-destination-page
+
+コード
+
+https://github.com/ichizokichinosuke/sample-nextjs-main/blob/main/pages/raise-server-error-page.js
+
+
 
 ## トレイリングスラッシュ対応
 
@@ -82,6 +109,6 @@ https://nextjs-blog-todos-chi-ten.vercel.app/rss/feed.xml
 
 https://nextjs.org/docs/api-reference/next.config.js/trailing-slash
 
-デフォルト: "/about/" -> "/about"
+デフォルトで "/about/" -> "/about" となる
 
 next.config.jsonで "/about" -> "/about/" となるように設定することも可能
