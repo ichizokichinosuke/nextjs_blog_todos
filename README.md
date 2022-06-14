@@ -46,7 +46,7 @@ https://nextjs.org/docs/advanced-features/custom-error-page
 
 参考リンク
 
-リポジトリリンク
+リポジトリ
 
 https://github.com/iamvishnusankar/next-sitemap
 
@@ -54,7 +54,7 @@ https://github.com/iamvishnusankar/next-sitemap
 
 https://fwywd.com/tech/next-sitemap
 
- サイトマップリンク
+サイトマップリンク
 
 https://nextjs-blog-todos-chi-ten.vercel.app/sitemap-0.xml
 
@@ -67,7 +67,7 @@ https://nextjs-blog-todos-chi-ten.vercel.app/sitemap-0.xml
 
 https://fwywd.com/tech/next-feed-rss-atom
 
-リポジトリンク
+リポジトリ
 
 https://github.com/jpmonette/feed
 
